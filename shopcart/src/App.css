@@ -1,0 +1,68 @@
+
+.App {
+  font-family: sans-serif;
+
+}
+ul #notebox {
+  visibility: hidden;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+input {
+  border-color: aqua;
+}
+#qtd1 span {
+  width: 50px;
+  padding: 10px;
+  margin-left: 50px;
+  text-align: center;
+  color: blueviolet;
+}
+.total{
+  display: flex;
+}
+
+h1 {
+  margin: 20px;
+  padding: 10px;
+  height: 80px;;
+}
+#items {
+  border-bottom: 1px;
+  border-color: darkgrey;
+  border-bottom-style: solid;
+  margin-left: 45px;
+  margin-right: 45px;
+
+}
+.shop {
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+.cart {
+  color: white;
+  text-decoration: none;
+  margin-top: 50px;
+  justify-content: right; 
+ margin-left: 500px;
+}
+h2 {
+  margin-left: 45px;
+}
+.btn{
+  margin-left: 45px;
+  margin-top: 10px;
+}
+.card-text form {
+  width: 250px
+}
+span {
+  color: red;
+}
+#select{
+  text-align: center;
+  margin: 30px;
+}
